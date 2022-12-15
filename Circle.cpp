@@ -1,20 +1,31 @@
 #include<iostream>
 using namespace std;
 main(){
-               
-cout << "                                 *************              "<<endl;
-cout << "                               *               *            "<<endl;
-cout << "                            *                     *          "<<endl;
-cout << "                          *                         *        "<<endl;
-cout << "                        *                             *       "<<endl;
-cout << "                        *                             *       "<<endl;
-cout << "                        *                             *       "<<endl;
-cout << "                        *                             *       "<<endl;
-cout << "                        *                             *       "<<endl;
-cout << "                        *                             *       "<<endl;
-cout << "                          *                         *        "<<endl;
-cout << "                            *                     *          "<<endl;
-cout << "                              *                 *            "<<endl;              
-cout << "                                **************               "<<endl;
-
-}
+system("color 04");
+cout << "               ..............    " << endl;
+cout << "               ..............    " << endl;
+cout << "             ...             ... " << endl;
+cout << "             ...             ... " << endl;
+cout << "           ..                   .. " << endl;
+cout << "           ..                   .. " << endl;
+cout << "          ..                     .. " << endl;
+cout << "          ..                     .. " << endl;
+cout << "         ..                       ..  " << endl;
+cout << "         ..                       .. " << endl;
+cout << "         .                         . " << endl;                               
+cout << "         .                         .  " << endl;
+cout << "         .                         . " << endl;
+cout << "         .                         . " << endl;
+cout << "         .                         . " << endl;
+cout << "         ..                        .. " << endl;
+cout << "         ..                        .. " << endl;
+cout << "          ..                      .. " << endl;
+cout << "          ..                      .. " << endl;
+cout << "           ..                    .. " << endl;
+cout << "           ..                    .. " << endl;
+cout << "             ...               ...  " << endl;
+cout << "             ...               ... " << endl;
+cout << "               ................. " << endl;
+cout << "               .................  " << endl;                              
+                 
+} 
